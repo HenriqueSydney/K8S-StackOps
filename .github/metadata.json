@@ -2,7 +2,7 @@
   "long_description": "Este é um repositório que fornece uma stack completa de monitoramento, segurança e observabilidade para clusters Kubernetes. Inclui ArgoCD para GitOps, GitLab para CI/CD, DefectDojo para gestão de vulnerabilidades, SonarQube para análise de código, Prometheus e Grafana para métricas, Grafana Loki e Tempo para logging e tracing, Ingress para roteamento e MinIO para armazenamento. Tudo pré-configurado para facilitar a operação de clusters em ambiente on-prem ou cloud.",
   "features": [
     "GitOps com ArgoCD",
-    "CI/CD com GitLab",
+    "Code Repository com GitLab",
     "Gestão de vulnerabilidades com DefectDojo",
     "Análise de código com SonarQube",
     "Monitoramento com Prometheus e Grafana",
